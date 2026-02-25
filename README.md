@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Muriithi Collins]
 
-<!--
-**muriithicollins389-art/muriithicollins389-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning ["AI"].
+- I'm interested in [, "AI, web development"].
+- I'm looking to collaborate on [AI open source projects"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [ "Python", ""javaScript "Machine Learning"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Enhancement of AI in bussines](link) — short description
+
+## How to Reach Me
+- Email: [muriithicollins389@gmail.com]
+- LinkedIn: [muriithicollins389@gmail.com]
